@@ -16,7 +16,7 @@ Second year medical student at Menoufia National University, Egypt. I contribute
 
 ### Open Source: OpenMed (Clinical NLP)
 
-Eight pull requests submitted, merged or approved, to [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed), spanning data quality (golden fixtures, patient record span filtering), reproducibility and integrity tooling (hash verification, skill bundle signature checks), model infrastructure (teacher ensemble registry), documentation (an executed notebook gallery with CI checks), privacy (notebook cell redaction), and clinical interoperability (a FHIR DiagnosticReport exporter).
+Eight pull requests submitted, merged to [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed), spanning data quality (golden fixtures, patient record span filtering), reproducibility and integrity tooling (hash verification, skill bundle signature checks), model infrastructure (teacher ensemble registry), documentation (an executed notebook gallery with CI checks), privacy (notebook cell redaction), and clinical interoperability (a FHIR DiagnosticReport exporter).
 
 ---
 
